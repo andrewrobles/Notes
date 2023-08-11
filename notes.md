@@ -2,7 +2,7 @@
 
 ### Git
 show aliases: `git config --get-regexp alias`
-set alias: `git config —global alias.<alias-name> <git command>`
+set alias: `git config —-global alias.<alias-name> <git command>`
 
 ### Vim
 left: `h` 
