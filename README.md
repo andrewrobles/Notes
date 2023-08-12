@@ -1,10 +1,4 @@
-# notes
-
-### git
-- `git config --get-regexp alias` show aliases
--  `git config —-global alias.<alias-name> <git command>` set alias
-
-### vim
+# vim
 
 motions
 - `h`, `j`, `k`, `l` left, down, up, right 
