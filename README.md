@@ -1,15 +1,7 @@
-# vim
+##### git
+aliases: `git config --get-regexp alias`
 
-motions
-- `h`, `j`, `k`, `l` left, down, up, right 
-- `b`, `w` left word, right word
-
-editing
-- `d`, `y` cut, copy
-- `dd`, `yy` cut line, copy line
-- `u`, `^r` undo, redo
-- `p` paste
-
-modes
-- `i`, `a` insert left, insert right
-- `v`, `^v` visual, visual line 
+##### vim
+motions: `h`, `j`, `k`, `l`, `b`, `w`
+editing: `d`, `y`, `dd`, `yy`, `u`, `^r`, `p`
+modes: `i`, `a`, `v`, `^v` 
