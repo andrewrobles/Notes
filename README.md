@@ -1,4 +1,4 @@
-**VIM**<br>
-MOTIONS: `h`, `j`, `k`, `l`, `b`, `w`<br>
-EDITING: `d`, `y`, `dd`, `yy`, `u`, `^r`, `p`<br>
-MODES: `i`, `a`, `v`, `^v`<br>
+### VIM
+- MOTIONS: `h`, `j`, `k`, `l`, `b`, `w`
+- EDITING: `d`, `y`, `dd`, `yy`, `u`, `^r`, `p`
+- MODES: `i`, `a`, `v`, `^v`
